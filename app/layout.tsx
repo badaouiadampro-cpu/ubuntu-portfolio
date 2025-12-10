@@ -20,7 +20,7 @@ const caveat = Caveat({
 export const metadata: Metadata = {
   title: 'Sakil Khan | Ubuntu 22.04',
   description:
-    'Explore Sakil Khan’s portfolio showcasing projects and expertise in full-stack development, working with Ubuntu 22.04, React, Next.js, Node.js, and more. Dive into professional experience, innovative solutions, and tech insights on a modern development environment.',
+    'Découvrez le portfolio d’Adam Badaoui, étudiant en BTS SIO option SISR, spécialisé dans les infrastructures, les systèmes et les réseaux. Explorez ses projets, ses compétences techniques et ses éxperiences professionnelles dans un environement basées sur Ubuntu, un espace moderne et clair mettant en avant son expérience, sa progression et son expertise.',
 };
 
 export default function RootLayout({
