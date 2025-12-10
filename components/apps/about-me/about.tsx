@@ -15,52 +15,45 @@ const About = () => {
       </div>
       <div className="mb-6 mt-4 px-1 text-center text-lg md:mt-8 md:text-2xl">
         <div>
-          Hi there, I&apos;m <span className="font-bold">Sakil! 👋</span>
+          Bonjour, moi c'est &apos;m <span className="font-bold">Adam! 👋</span>
         </div>
         <div className="ml-1 font-normal">
-          A passionate{' '}
+          Un passinonné de{' '}
           <span className="font-bold text-orange-600">
-            Software Engineer 💻✨
+           Systèmes, Réseaux & Sécurité 💻🔐
           </span>{' '}
         </div>
       </div>
       <ul className="emoji-list mt-4 w-5/6 text-sm leading-tight tracking-tight md:w-3/4 md:text-base">
         <li className="list-alumnus">
-          I’m a <span className="font-medium">Software Engineer 🤓</span>{' '}
-          specialized in the{' '}
-          <span className="font-medium">Node.js/React.js ecosystem</span> with
+          Je suis <span className="font-medium">étudiant en BTS SIO option SISR </span>{' '}
+          spécialisé dans les{' '}
+          <span className="font-medium">infrastructures, l’administration système et la gestion des réseaux</span> Je développe mes compétences pour résoudre
           <span className="text-orange-600">
             {' '}
-            {yearsOfExperience}+ years of professional experience
+             des problématiques concrètes avec des solutions techniques fiables et modernes 🌍.
           </span>
-          . I am committed to continuously enhancing my skills to effectively
-          solve{' '}
-          <span className="text-orange-600">
-            real-world problems through technology 🌍
-          </span>
-          . Here are my key specializations:
+          Voici mes principales spécialités :
           <ul className="mt-2 list-inside list-disc">
             <li>
               <span className="text-orange-600">
-                JavaScript Stack Advocate:
+               Administration Système :
               </span>{' '}
-              Specializing in JavaScript with a willingness to learn additional
-              languages.
+            Gestion et configuration de serveurs Linux (Debian, Ubuntu), virtualisation et services réseau.
             </li>
             <li>
-              <span className="text-orange-600">Continuous Improvement:</span>{' '}
-              Committed to learning and adapting to new technologies.
+              <span className="text-orange-600">Réseaux & Sécurité :</span>{' '}
+              Configuration LAN/WAN, VLAN, pare-feu, bonnes pratiques de sécurisation.
             </li>
             <li>
               <span className="text-orange-600">
-                Passionate about Innovation:
+                Apprentissage Continu :
               </span>{' '}
-              Enjoy working with the latest tools to develop innovative
-              solutions ⚙️.
+             Toujours motivé pour améliorer mes compétences et découvrir de nouvelles technologies.
             </li>
             <li>
               <span className="text-orange-600">Problem Solver at Heart:</span>{' '}
-              Embrace challenges that push me to grow and improve 💪.
+              J’aime relever des défis techniques qui m’aident à progresser et à proposer des solutions efficaces 💪.
             </li>
           </ul>
         </li>
