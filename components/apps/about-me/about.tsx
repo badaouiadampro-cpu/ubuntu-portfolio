@@ -17,7 +17,7 @@ const About = () => {
 
       <div className="mb-6 mt-4 px-1 text-center text-lg md:mt-8 md:text-2xl">
         <div>
-          Bonjour, moi cest <span className="font-bold">Adam ! 👋</span>
+          Bonjour, moi c'est <span className="font-bold">Adam ! 👋</span>
         </div>
 
         <div className="ml-1 font-normal">
@@ -34,7 +34,7 @@ const About = () => {
           <span className="font-medium">étudiant en BTS SIO option SISR</span>,{' '}
           spécialisé dans les{' '}
           <span className="font-medium">
-            infrastructures, ladministration système et la gestion des réseaux
+            infrastructures, l'administration système et la gestion des réseaux
           </span>
           .
           <br />
