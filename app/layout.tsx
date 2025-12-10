@@ -18,7 +18,7 @@ const caveat = Caveat({
 });
 
 export const metadata: Metadata = {
-  title: 'Sakil Khan | Ubuntu 22.04',
+  title: 'Adam Badaoui | Ubuntu 22.04',
   description:
     'Découvrez le portfolio d’Adam Badaoui, étudiant en BTS SIO option SISR, spécialisé dans les infrastructures, les systèmes et les réseaux. Explorez ses projets, ses compétences techniques et ses éxperiences professionnelles dans un environement basées sur Ubuntu, un espace moderne et clair mettant en avant son expérience, sa progression et son expertise.',
 };
